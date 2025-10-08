@@ -34,3 +34,13 @@ int main()
 // BMW
 // FORD
 // MAZDA
+
+// Key Concepts of the STL
+// The key components of the STL consist of containers, iterators, and algorithms, and the relationship between them:
+
+// Containers are data structures that provides a way to store data, like vectors, lists, etc.
+// Iterators are objects used to access elements of a data structure.
+// Algorithms include functions, like sort() and find(), that perform operations on data structures through iterators.
+// In Computer Science, data structures and algorithms go hand in hand. A data structure is not
+//  worth much if you cannot search through it or manipulate it efficiently using algorithms,
+//  and algorithms are not worth much without a data structure to work on
